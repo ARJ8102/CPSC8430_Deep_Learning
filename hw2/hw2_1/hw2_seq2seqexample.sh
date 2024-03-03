@@ -1,0 +1,1 @@
+python3 testblue.py $'/home/atharvj/Deep Learning CPSC 8430/HW_2/hw2/testing_data' $'testing_data.txt'
